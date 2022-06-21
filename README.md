@@ -1,9 +1,7 @@
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+### Nick Mwangemi
+<br>
+A solution-focused Software Developer with industry experience in designing, developing, deploying and maintaining web applications
+that deliver value.
 
 
 
@@ -12,10 +10,7 @@
   <img align="center" alt="nickmwangemi" height="80%" width="80%" src="https://media.giphy.com/media/QRB6F0x3ptYHu/giphy.gif">
 </div>
 
-#
-### :man_technologist: About Me :
-I'm Nick Mwangemi, a solution-focused Software Developer with industry experience in designing, developing, deploying and maintaining web applications
-that deliver value.
+
 
 
   
