@@ -23,12 +23,6 @@ that deliver value.
 <br>
 <br> 
 
- 
-<h2>GitHub Stats</h2>
-<a align="center"href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nickmwangemi&count_private=true&show_icons=true&theme=cobalt">
-  <img align="center" src ="https://github-readme-streak-stats.herokuapp.com/?user=nickmwangemi">
-</a><br>
-
- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nickmwangemi)](https://git.io/streak-stats)
 <br>
 <br>
